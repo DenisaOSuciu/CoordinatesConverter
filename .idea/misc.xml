@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="../../Desktop/CoordinatesConverter/app/src/main/res/layout/activity_converter.xml" value="0.28535308837890627" />
         <entry key="../../Desktop/CoordinatesConverter/app/src/main/res/layout/activity_main.xml" value="0.2234375" />
+        <entry key="../../Desktop/CoordinatesConverter/app/src/main/res/layout/activity_map.xml" value="0.25" />
+        <entry key="../../Desktop/CoordinatesConverter/app/src/main/res/xml/provider_paths.xml" value="0.2269021739130435" />
       </map>
     </option>
   </component>
